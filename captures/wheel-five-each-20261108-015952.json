@@ -1,0 +1,155 @@
+{
+  "duration_s": 25,
+  "raw_filter_ms": 20,
+  "expected": {
+    "UP": 5,
+    "DOWN": 5
+  },
+  "counts": {
+    "UP": 5,
+    "DOWN": 5
+  },
+  "events": [
+    {
+      "t": 0.399,
+      "direction": "UP",
+      "number": 1
+    },
+    {
+      "t": 1.681,
+      "direction": "UP",
+      "number": 2
+    },
+    {
+      "t": 2.736,
+      "direction": "UP",
+      "number": 3
+    },
+    {
+      "t": 3.967,
+      "direction": "UP",
+      "number": 4
+    },
+    {
+      "t": 4.007,
+      "direction": "UP",
+      "number": 5
+    },
+    {
+      "t": 6.403,
+      "direction": "DOWN",
+      "number": 1
+    },
+    {
+      "t": 7.702,
+      "direction": "DOWN",
+      "number": 2
+    },
+    {
+      "t": 9.129,
+      "direction": "DOWN",
+      "number": 3
+    },
+    {
+      "t": 10.573,
+      "direction": "DOWN",
+      "number": 4
+    },
+    {
+      "t": 12.014,
+      "direction": "DOWN",
+      "number": 5
+    }
+  ],
+  "unknown_states": [],
+  "records": [
+    {
+      "t": 0.001,
+      "line": "OK PROFILE OFF"
+    },
+    {
+      "t": 0.001,
+      "line": "OK RAW ON"
+    },
+    {
+      "t": 0.003,
+      "line": "STATE mode=bench profile=0 armed=0 raw=0100 active=NONE pending=0 lost=0 txlost=1 ms=1169873"
+    },
+    {
+      "t": 0.338,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 0.399,
+      "line": "RAW 0001"
+    },
+    {
+      "t": 1.681,
+      "line": "RAW 0020"
+    },
+    {
+      "t": 2.633,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 2.736,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 2.757,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 3.042,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 3.485,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 3.967,
+      "line": "RAW 0001"
+    },
+    {
+      "t": 4.007,
+      "line": "RAW 0020"
+    },
+    {
+      "t": 6.339,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 6.403,
+      "line": "RAW 0001"
+    },
+    {
+      "t": 7.432,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 7.702,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 9.129,
+      "line": "RAW 0020"
+    },
+    {
+      "t": 10.38,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 10.573,
+      "line": "RAW 0001"
+    },
+    {
+      "t": 11.705,
+      "line": "RAW 0000"
+    },
+    {
+      "t": 12.014,
+      "line": "RAW 0100"
+    }
+  ]
+}

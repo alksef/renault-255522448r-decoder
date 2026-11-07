@@ -1,0 +1,38 @@
+[
+  {
+    "t": 0.001,
+    "line": "OK RAW ON"
+  },
+  {
+    "t": 0.002,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=925845"
+  },
+  {
+    "t": 1.057,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=926900"
+  },
+  {
+    "t": 2.114,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=927957"
+  },
+  {
+    "t": 3.168,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=929011"
+  },
+  {
+    "t": 4.224,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=930067"
+  },
+  {
+    "t": 5.278,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=931121"
+  },
+  {
+    "t": 6.335,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=932178"
+  },
+  {
+    "t": 7.39,
+    "line": "STATE mode=bench profile=0 armed=0 raw=2155 active=NONE pending=0 lost=0 txlost=1 ms=933232"
+  }
+]

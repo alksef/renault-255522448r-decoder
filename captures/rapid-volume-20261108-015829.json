@@ -1,0 +1,289 @@
+{
+  "duration_s": 30,
+  "raw_filter_ms": 20,
+  "expected": {
+    "VOL_PLUS": 10,
+    "VOL_MINUS": 10
+  },
+  "counts": {
+    "VOL_PLUS": 10,
+    "VOL_MINUS": 10
+  },
+  "events": [
+    {
+      "t": 2.982,
+      "button": "VOL_PLUS",
+      "number": 1
+    },
+    {
+      "t": 3.798,
+      "button": "VOL_PLUS",
+      "number": 2
+    },
+    {
+      "t": 4.605,
+      "button": "VOL_PLUS",
+      "number": 3
+    },
+    {
+      "t": 5.295,
+      "button": "VOL_PLUS",
+      "number": 4
+    },
+    {
+      "t": 6.101,
+      "button": "VOL_PLUS",
+      "number": 5
+    },
+    {
+      "t": 6.842,
+      "button": "VOL_PLUS",
+      "number": 6
+    },
+    {
+      "t": 7.622,
+      "button": "VOL_PLUS",
+      "number": 7
+    },
+    {
+      "t": 8.325,
+      "button": "VOL_PLUS",
+      "number": 8
+    },
+    {
+      "t": 9.008,
+      "button": "VOL_PLUS",
+      "number": 9
+    },
+    {
+      "t": 9.78,
+      "button": "VOL_PLUS",
+      "number": 10
+    },
+    {
+      "t": 10.667,
+      "button": "VOL_MINUS",
+      "number": 1
+    },
+    {
+      "t": 11.397,
+      "button": "VOL_MINUS",
+      "number": 2
+    },
+    {
+      "t": 12.094,
+      "button": "VOL_MINUS",
+      "number": 3
+    },
+    {
+      "t": 12.742,
+      "button": "VOL_MINUS",
+      "number": 4
+    },
+    {
+      "t": 13.49,
+      "button": "VOL_MINUS",
+      "number": 5
+    },
+    {
+      "t": 14.13,
+      "button": "VOL_MINUS",
+      "number": 6
+    },
+    {
+      "t": 14.864,
+      "button": "VOL_MINUS",
+      "number": 7
+    },
+    {
+      "t": 15.574,
+      "button": "VOL_MINUS",
+      "number": 8
+    },
+    {
+      "t": 16.228,
+      "button": "VOL_MINUS",
+      "number": 9
+    },
+    {
+      "t": 16.88,
+      "button": "VOL_MINUS",
+      "number": 10
+    }
+  ],
+  "unknown_states": [],
+  "records": [
+    {
+      "t": 0.001,
+      "line": "OK PROFILE OFF"
+    },
+    {
+      "t": 0.001,
+      "line": "OK RAW ON"
+    },
+    {
+      "t": 0.002,
+      "line": "STATE mode=bench profile=0 armed=0 raw=0100 active=NONE pending=0 lost=0 txlost=1 ms=1082195"
+    },
+    {
+      "t": 2.982,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 3.136,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 3.798,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 3.959,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 4.605,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 4.741,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 5.295,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 5.435,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 6.101,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 6.236,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 6.842,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 6.972,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 7.622,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 7.764,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 8.325,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 8.455,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 9.008,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 9.139,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 9.78,
+      "line": "RAW 0104"
+    },
+    {
+      "t": 9.935,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 10.667,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 10.845,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 11.397,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 11.537,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 12.094,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 12.235,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 12.742,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 12.877,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 13.49,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 13.646,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 14.13,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 14.291,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 14.864,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 15.002,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 15.574,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 15.722,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 16.228,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 16.388,
+      "line": "RAW 0100"
+    },
+    {
+      "t": 16.88,
+      "line": "RAW 2140"
+    },
+    {
+      "t": 17.106,
+      "line": "RAW 0100"
+    }
+  ]
+}
