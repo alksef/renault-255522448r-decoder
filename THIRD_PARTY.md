@@ -11,8 +11,9 @@
 - [toane/renault_remote](https://github.com/toane/renault_remote) informed earlier
   study of contact-scanning methods. Its source and images are **not** bundled
   here. No explicit licence was found in the studied snapshot.
-- `docs/images/connector-reference.png` is a third-party photograph supplied by
-  the user. The original photographer and article URL are not established;
+- `docs/images/connector-reference.png` is a third-party photograph from
+  [this DRIVE2 article](https://www.drive2.ru/l/6899697/), supplied and attributed
+  to that source by the user;
   no photo licence is asserted. Any numbered version is a derivative reference
   annotation, not a newly authored photograph.
 - A project-wide licence for the original scanner, decoder, and documentation
